@@ -20,7 +20,7 @@
 
 >> pip install -r requirements.txt
 
-### INICIAR BASE DE DATOS ##
+### .✨ Iniciar base de datos ##
 
 1.- Para iniciar migraciones
 
@@ -34,7 +34,7 @@
 
 >> python manage.py db upgrade
 
-### EJECUCIÓN ###
+### 🤖 Ejecución ###
 
 1.- Para iniciar la aplicación
 
@@ -44,7 +44,7 @@
 
 >> python manage.py exec
 
-## CREADO POR ##
+## 😎 Creado por ##
 
 ```bash
 Cristian Rivera Acevedo
